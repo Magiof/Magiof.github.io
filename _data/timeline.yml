@@ -1,17 +1,8 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Back-End Software Engineer, 마음영양 주식회사
+  from: 2022.08
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description:
+    As a Back-nd software engineer at <a href="https://www.balance.site">Balance</a>, a health functional food e-commerce platform, I am responsible for developing the NestJS server.  <br><br>
+    I have developed various features, such as order management, discount and coupon systems, payment processing, shipping and refund handling.  <br><br>
+    Throughout my work, I strive to create clean code that is logically sound and easy to maintain.

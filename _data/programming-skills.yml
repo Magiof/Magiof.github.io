@@ -16,14 +16,14 @@
 
 - name: PostgreSQL
   percentage: 85
-  color:
+  color: info
 
 - name: MySQL
   percentage: 85
   color:
 
 - name: Redis
-  percentage: 70
+  percentage: 80
   color: danger
 
 - name: MongoDB
@@ -32,7 +32,7 @@
 
 - name: PRISMA
   percentage: 100
-  color:
+  color: info
 
 - name: TypeORM
   percentage: 85
@@ -41,3 +41,7 @@
 - name: Sequalize
   percentage: 85
   color:
+
+- name: puppeteer
+  percentage: 90
+  color: success
