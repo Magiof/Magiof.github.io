@@ -1,11 +1,43 @@
-- name: HTML5/CSS3
-  percentage: 90
+- name: Nest.JS
+  percentage: 100
   color: danger
 
-- name: Go
-  percentage: 80
+- name: Node.JS
+  percentage: 100
+  color: success
+
+- name: TypeScript
+  percentage: 100
   color:
 
-- name: Python
+- name: JavaScript
+  percentage: 100
+  color: warning
+
+- name: PostgreSQL
+  percentage: 85
+  color:
+
+- name: MySQL
+  percentage: 85
+  color:
+
+- name: Redis
   percentage: 70
-  color: secondary
+  color: danger
+
+- name: MongoDB
+  percentage: 70
+  color: success
+
+- name: PRISMA
+  percentage: 100
+  color:
+
+- name: TypeORM
+  percentage: 85
+  color:
+
+- name: Sequalize
+  percentage: 85
+  color:
