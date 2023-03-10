@@ -9,7 +9,7 @@ description: "Your job-seeking mate, Good Job Calendar!!"
 
 <br>
 
-### 🙆‍♀️Your job-seeking mate, <a href="https://www.balance.site">Good-Job Calendar</a>!!🙆‍♂️
+### 🙆‍♀️Your job-seeking mate, <a href="https://goodjobcalendar.com/">Good-Job Calendar</a>!!🙆‍♂️
 ![logo](https://user-images.githubusercontent.com/105336416/182617216-d4156ce3-f572-44d6-a335-5e7fd9183123.png)
 
 <br>
