@@ -65,5 +65,5 @@ An era of one million unemployed people!
 
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/Magiof/goodjob_BE" text="Learn More" %}
+{% include elements/button.html link="https://github.com/Magiof/goodjob_BE" text="Go to GitHub" %}
 </p>

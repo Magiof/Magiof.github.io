@@ -71,5 +71,5 @@ Join us and get motivated with others to get things done together!
 <br>
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/Square-with-me/Square-with-me-BE" text="Learn More" %}
+{% include elements/button.html link="https://github.com/Square-with-me/Square-with-me-BE" text="Go to GitHub" %}
 </p>
